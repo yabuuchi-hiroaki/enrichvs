@@ -1,3 +1,9 @@
-# enrichvs
+# enrichvs: Enrichment assessment of virtual screening approaches.
 
-医薬品スクリーニング手法の評価のためのエンリッチメント曲線描画プログラム
+These R scripts were provided as "enrichvs" package (ver. 0.0.5) via CRAN.
+
+## Dependence
+R (>= 0.99)
+
+## Description
+These programs are used for calculating enrichment factors, drawing enrichment curves to evaluate virtual screening approaches.
